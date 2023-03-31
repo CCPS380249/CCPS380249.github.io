@@ -1,1 +1,28 @@
-
+p{
+  color:#58585a;
+ font-style: italic
+}
+ul{
+  color:#f1ebdd;
+  font-size: 12px;
+}
+ol{
+  color:#edded1;
+  font-size: 12px;
+}
+h1{
+  color:##8c895e;
+  font-size: 12px;
+}
+header{
+  color:#dbd8d3;
+  font-size 12px;
+}
+body{
+  color:#dbd8d3;
+  font-size: 12px;
+}
+footer{
+  color:#58585a;
+  font-size: 12px;
+}
